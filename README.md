@@ -1,19 +1,117 @@
-# 💫 About Me:
-👩‍💻 Computer Science Engineering Student | 💡 Passionate about Web Development & Python<br>🚀 Building projects in Frontend, Backend, and Arduino Robotics<br>🌱 Currently learning Backend Development (Python + MySQL)<br>💬 Let’s collaborate on open-source and Hacktoberfest projects!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%"/>
 
-## 🌐 Socials: [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/MehwishSayyed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehwishsayyed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehwishsayyed189@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=480&lines=Developer+%7C+Learner+%7C+Builder;Turning+coffee+into+code;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MehwishSayyed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MehwishSayyed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehwishSayyed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=8b5cf6&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=8b5cf6&logo=github" alt="followers"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MehwishSayyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=MehwishSayyed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About Me
+
+- 🔭 Currently working on **AuditX**
+- 🌱 Learning **AI**
+- 💬 Ask me about **Python**
+- 📍 Based in **Pune, India**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,html,css,git,github,docker,linux,vscode&theme=dark" />
+
+</div>
+
+*Swap icons by editing the list above — full catalog at [skillicons.dev](https://skillicons.dev).*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
+
+*Needs the [Platane/snk](https://github.com/Platane/snk) GitHub Action — setup steps below.*
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%"/>
+
+<!--
+SETUP NOTES (delete before publishing)
+
+1. Create a public repo named exactly YOUR_USERNAME (same as your GitHub username).
+   Add this file as README.md in it. It then appears on your profile.
+
+2. Replace every YOUR_USERNAME / YOUR_NAME / YOUR_* placeholder.
+
+3. Snake animation: in that repo create .github/workflows/snake.yml:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/github-action-push-to-another-branch@v1
+        with:
+          source_directory: dist
+          target_branch: output
+
+   Run the workflow once from the Actions tab.
+-->
