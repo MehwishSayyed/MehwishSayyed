@@ -28,7 +28,6 @@
 
 </div>
 
-*Swap icons by editing the list above — full catalog at [skillicons.dev](https://skillicons.dev).*
 
 ---
 
